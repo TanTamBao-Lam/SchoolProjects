@@ -1,0 +1,20 @@
+C:\Users\Stephen.Carter\Documents\OOP\1.Primitive Arrays\3.Exercises\2\TouchTypeAverager\TouchTypeAverager\bin\Debug\TouchTypeAverager.exe.config
+C:\Users\Stephen.Carter\Documents\OOP\1.Primitive Arrays\3.Exercises\2\TouchTypeAverager\TouchTypeAverager\bin\Debug\TouchTypeAverager.exe
+C:\Users\Stephen.Carter\Documents\OOP\1.Primitive Arrays\3.Exercises\2\TouchTypeAverager\TouchTypeAverager\bin\Debug\TouchTypeAverager.pdb
+C:\Users\Stephen.Carter\Documents\OOP\1.Primitive Arrays\3.Exercises\2\TouchTypeAverager\TouchTypeAverager\obj\Debug\TouchTypeAverager.csprojAssemblyReference.cache
+C:\Users\Stephen.Carter\Documents\OOP\1.Primitive Arrays\3.Exercises\2\TouchTypeAverager\TouchTypeAverager\obj\Debug\TouchTypeAverager.frmTouchTypeAverager.resources
+C:\Users\Stephen.Carter\Documents\OOP\1.Primitive Arrays\3.Exercises\2\TouchTypeAverager\TouchTypeAverager\obj\Debug\TouchTypeAverager.Properties.Resources.resources
+C:\Users\Stephen.Carter\Documents\OOP\1.Primitive Arrays\3.Exercises\2\TouchTypeAverager\TouchTypeAverager\obj\Debug\TouchTypeAverager.csproj.GenerateResource.cache
+C:\Users\Stephen.Carter\Documents\OOP\1.Primitive Arrays\3.Exercises\2\TouchTypeAverager\TouchTypeAverager\obj\Debug\TouchTypeAverager.csproj.CoreCompileInputs.cache
+C:\Users\Stephen.Carter\Documents\OOP\1.Primitive Arrays\3.Exercises\2\TouchTypeAverager\TouchTypeAverager\obj\Debug\TouchTypeAverager.exe
+C:\Users\Stephen.Carter\Documents\OOP\1.Primitive Arrays\3.Exercises\2\TouchTypeAverager\TouchTypeAverager\obj\Debug\TouchTypeAverager.pdb
+D:\Study\NBCC\SchoolProjects\Objected-Oriented Programming_W2022\Exercises\Jan 5 - Array\TouchTypeAverager\TouchTypeAverager\bin\Debug\TouchTypeAverager.exe.config
+D:\Study\NBCC\SchoolProjects\Objected-Oriented Programming_W2022\Exercises\Jan 5 - Array\TouchTypeAverager\TouchTypeAverager\bin\Debug\TouchTypeAverager.exe
+D:\Study\NBCC\SchoolProjects\Objected-Oriented Programming_W2022\Exercises\Jan 5 - Array\TouchTypeAverager\TouchTypeAverager\bin\Debug\TouchTypeAverager.pdb
+D:\Study\NBCC\SchoolProjects\Objected-Oriented Programming_W2022\Exercises\Jan 5 - Array\TouchTypeAverager\TouchTypeAverager\obj\Debug\TouchTypeAverager.csproj.AssemblyReference.cache
+D:\Study\NBCC\SchoolProjects\Objected-Oriented Programming_W2022\Exercises\Jan 5 - Array\TouchTypeAverager\TouchTypeAverager\obj\Debug\TouchTypeAverager.frmTouchTypeAverager.resources
+D:\Study\NBCC\SchoolProjects\Objected-Oriented Programming_W2022\Exercises\Jan 5 - Array\TouchTypeAverager\TouchTypeAverager\obj\Debug\TouchTypeAverager.Properties.Resources.resources
+D:\Study\NBCC\SchoolProjects\Objected-Oriented Programming_W2022\Exercises\Jan 5 - Array\TouchTypeAverager\TouchTypeAverager\obj\Debug\TouchTypeAverager.csproj.GenerateResource.cache
+D:\Study\NBCC\SchoolProjects\Objected-Oriented Programming_W2022\Exercises\Jan 5 - Array\TouchTypeAverager\TouchTypeAverager\obj\Debug\TouchTypeAverager.csproj.CoreCompileInputs.cache
+D:\Study\NBCC\SchoolProjects\Objected-Oriented Programming_W2022\Exercises\Jan 5 - Array\TouchTypeAverager\TouchTypeAverager\obj\Debug\TouchTypeAverager.exe
+D:\Study\NBCC\SchoolProjects\Objected-Oriented Programming_W2022\Exercises\Jan 5 - Array\TouchTypeAverager\TouchTypeAverager\obj\Debug\TouchTypeAverager.pdb

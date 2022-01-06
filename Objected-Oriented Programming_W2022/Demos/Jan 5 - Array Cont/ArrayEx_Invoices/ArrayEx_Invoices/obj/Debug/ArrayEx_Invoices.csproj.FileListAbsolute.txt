@@ -1,0 +1,7 @@
+D:\Study\NBCC\SchoolProjects\Objected-Oriented Programming_W2022\Demos\Jan 5 - Array Cont\ArrayEx_Invoices\ArrayEx_Invoices\bin\Debug\ArrayEx_Invoices.exe.config
+D:\Study\NBCC\SchoolProjects\Objected-Oriented Programming_W2022\Demos\Jan 5 - Array Cont\ArrayEx_Invoices\ArrayEx_Invoices\bin\Debug\ArrayEx_Invoices.exe
+D:\Study\NBCC\SchoolProjects\Objected-Oriented Programming_W2022\Demos\Jan 5 - Array Cont\ArrayEx_Invoices\ArrayEx_Invoices\bin\Debug\ArrayEx_Invoices.pdb
+D:\Study\NBCC\SchoolProjects\Objected-Oriented Programming_W2022\Demos\Jan 5 - Array Cont\ArrayEx_Invoices\ArrayEx_Invoices\obj\Debug\ArrayEx_Invoices.csproj.AssemblyReference.cache
+D:\Study\NBCC\SchoolProjects\Objected-Oriented Programming_W2022\Demos\Jan 5 - Array Cont\ArrayEx_Invoices\ArrayEx_Invoices\obj\Debug\ArrayEx_Invoices.csproj.CoreCompileInputs.cache
+D:\Study\NBCC\SchoolProjects\Objected-Oriented Programming_W2022\Demos\Jan 5 - Array Cont\ArrayEx_Invoices\ArrayEx_Invoices\obj\Debug\ArrayEx_Invoices.exe
+D:\Study\NBCC\SchoolProjects\Objected-Oriented Programming_W2022\Demos\Jan 5 - Array Cont\ArrayEx_Invoices\ArrayEx_Invoices\obj\Debug\ArrayEx_Invoices.pdb
