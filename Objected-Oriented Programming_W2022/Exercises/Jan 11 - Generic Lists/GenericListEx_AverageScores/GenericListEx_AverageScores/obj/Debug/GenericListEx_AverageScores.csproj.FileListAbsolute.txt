@@ -1,0 +1,10 @@
+D:\Study\NBCC\SchoolProjects\Objected-Oriented Programming_W2022\Exercises\Jan 11 - Generic Lists\GenericListEx_AverageScores\GenericListEx_AverageScores\bin\Debug\GenericListEx_AverageScores.exe.config
+D:\Study\NBCC\SchoolProjects\Objected-Oriented Programming_W2022\Exercises\Jan 11 - Generic Lists\GenericListEx_AverageScores\GenericListEx_AverageScores\bin\Debug\GenericListEx_AverageScores.exe
+D:\Study\NBCC\SchoolProjects\Objected-Oriented Programming_W2022\Exercises\Jan 11 - Generic Lists\GenericListEx_AverageScores\GenericListEx_AverageScores\bin\Debug\GenericListEx_AverageScores.pdb
+D:\Study\NBCC\SchoolProjects\Objected-Oriented Programming_W2022\Exercises\Jan 11 - Generic Lists\GenericListEx_AverageScores\GenericListEx_AverageScores\obj\Debug\GenericListEx_AverageScores.csproj.AssemblyReference.cache
+D:\Study\NBCC\SchoolProjects\Objected-Oriented Programming_W2022\Exercises\Jan 11 - Generic Lists\GenericListEx_AverageScores\GenericListEx_AverageScores\obj\Debug\GenericListEx_AverageScores.frmAverageScores.resources
+D:\Study\NBCC\SchoolProjects\Objected-Oriented Programming_W2022\Exercises\Jan 11 - Generic Lists\GenericListEx_AverageScores\GenericListEx_AverageScores\obj\Debug\GenericListEx_AverageScores.Properties.Resources.resources
+D:\Study\NBCC\SchoolProjects\Objected-Oriented Programming_W2022\Exercises\Jan 11 - Generic Lists\GenericListEx_AverageScores\GenericListEx_AverageScores\obj\Debug\GenericListEx_AverageScores.csproj.GenerateResource.cache
+D:\Study\NBCC\SchoolProjects\Objected-Oriented Programming_W2022\Exercises\Jan 11 - Generic Lists\GenericListEx_AverageScores\GenericListEx_AverageScores\obj\Debug\GenericListEx_AverageScores.csproj.CoreCompileInputs.cache
+D:\Study\NBCC\SchoolProjects\Objected-Oriented Programming_W2022\Exercises\Jan 11 - Generic Lists\GenericListEx_AverageScores\GenericListEx_AverageScores\obj\Debug\GenericListEx_AverageScores.exe
+D:\Study\NBCC\SchoolProjects\Objected-Oriented Programming_W2022\Exercises\Jan 11 - Generic Lists\GenericListEx_AverageScores\GenericListEx_AverageScores\obj\Debug\GenericListEx_AverageScores.pdb

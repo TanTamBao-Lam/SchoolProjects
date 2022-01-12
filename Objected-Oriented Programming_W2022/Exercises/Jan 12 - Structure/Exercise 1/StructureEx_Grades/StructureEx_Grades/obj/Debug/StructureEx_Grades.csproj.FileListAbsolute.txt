@@ -1,0 +1,10 @@
+C:\Users\Stephen.Carter\Documents\Courses\OOP\3.Structures\3.Exercises\1\StructureEx_Grades\StructureEx_Grades\bin\Debug\StructureEx_Grades.exe.config
+C:\Users\Stephen.Carter\Documents\Courses\OOP\3.Structures\3.Exercises\1\StructureEx_Grades\StructureEx_Grades\bin\Debug\StructureEx_Grades.exe
+C:\Users\Stephen.Carter\Documents\Courses\OOP\3.Structures\3.Exercises\1\StructureEx_Grades\StructureEx_Grades\bin\Debug\StructureEx_Grades.pdb
+C:\Users\Stephen.Carter\Documents\Courses\OOP\3.Structures\3.Exercises\1\StructureEx_Grades\StructureEx_Grades\obj\Debug\StructureEx_Grades.csprojAssemblyReference.cache
+C:\Users\Stephen.Carter\Documents\Courses\OOP\3.Structures\3.Exercises\1\StructureEx_Grades\StructureEx_Grades\obj\Debug\StructureEx_Grades.frmGrades.resources
+C:\Users\Stephen.Carter\Documents\Courses\OOP\3.Structures\3.Exercises\1\StructureEx_Grades\StructureEx_Grades\obj\Debug\StructureEx_Grades.Properties.Resources.resources
+C:\Users\Stephen.Carter\Documents\Courses\OOP\3.Structures\3.Exercises\1\StructureEx_Grades\StructureEx_Grades\obj\Debug\StructureEx_Grades.csproj.GenerateResource.cache
+C:\Users\Stephen.Carter\Documents\Courses\OOP\3.Structures\3.Exercises\1\StructureEx_Grades\StructureEx_Grades\obj\Debug\StructureEx_Grades.csproj.CoreCompileInputs.cache
+C:\Users\Stephen.Carter\Documents\Courses\OOP\3.Structures\3.Exercises\1\StructureEx_Grades\StructureEx_Grades\obj\Debug\StructureEx_Grades.exe
+C:\Users\Stephen.Carter\Documents\Courses\OOP\3.Structures\3.Exercises\1\StructureEx_Grades\StructureEx_Grades\obj\Debug\StructureEx_Grades.pdb

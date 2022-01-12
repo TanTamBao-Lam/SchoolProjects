@@ -1,0 +1,10 @@
+D:\Study\NBCC\SchoolProjects\Objected-Oriented Programming_W2022\Demos\Jan 11 - Generic Lists\GenericListsDemo\GenericListsDemo\bin\Debug\GenericListsDemo.exe.config
+D:\Study\NBCC\SchoolProjects\Objected-Oriented Programming_W2022\Demos\Jan 11 - Generic Lists\GenericListsDemo\GenericListsDemo\bin\Debug\GenericListsDemo.exe
+D:\Study\NBCC\SchoolProjects\Objected-Oriented Programming_W2022\Demos\Jan 11 - Generic Lists\GenericListsDemo\GenericListsDemo\bin\Debug\GenericListsDemo.pdb
+D:\Study\NBCC\SchoolProjects\Objected-Oriented Programming_W2022\Demos\Jan 11 - Generic Lists\GenericListsDemo\GenericListsDemo\obj\Debug\GenericListsDemo.csproj.AssemblyReference.cache
+D:\Study\NBCC\SchoolProjects\Objected-Oriented Programming_W2022\Demos\Jan 11 - Generic Lists\GenericListsDemo\GenericListsDemo\obj\Debug\GenericListsDemo.Form1.resources
+D:\Study\NBCC\SchoolProjects\Objected-Oriented Programming_W2022\Demos\Jan 11 - Generic Lists\GenericListsDemo\GenericListsDemo\obj\Debug\GenericListsDemo.Properties.Resources.resources
+D:\Study\NBCC\SchoolProjects\Objected-Oriented Programming_W2022\Demos\Jan 11 - Generic Lists\GenericListsDemo\GenericListsDemo\obj\Debug\GenericListsDemo.csproj.GenerateResource.cache
+D:\Study\NBCC\SchoolProjects\Objected-Oriented Programming_W2022\Demos\Jan 11 - Generic Lists\GenericListsDemo\GenericListsDemo\obj\Debug\GenericListsDemo.csproj.CoreCompileInputs.cache
+D:\Study\NBCC\SchoolProjects\Objected-Oriented Programming_W2022\Demos\Jan 11 - Generic Lists\GenericListsDemo\GenericListsDemo\obj\Debug\GenericListsDemo.exe
+D:\Study\NBCC\SchoolProjects\Objected-Oriented Programming_W2022\Demos\Jan 11 - Generic Lists\GenericListsDemo\GenericListsDemo\obj\Debug\GenericListsDemo.pdb
