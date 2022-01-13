@@ -10,15 +10,6 @@ using System.Windows.Forms;
 
 namespace StructuresDemo
 {
-    public struct Employee
-    {
-        public string GivenName;
-        public string FamilyName;
-        public int Extension;
-        public decimal Salary;
-    }
-
-
     public partial class frmStructuresDemo : Form
     {
         private List<Employee> allEmployees = new List<Employee>();
@@ -42,6 +33,13 @@ namespace StructuresDemo
                 //add that employee to a generic list of employee.
                 allEmployees.Add(em);
 
+                MessageBox.Show("Structure Accepted");
+
+                if (allEmployees.Count % 2 == 0)
+                {
+                    DisplayStructure();
+                }
+
                 //clear the form.
                 foreach(Control ctl in this.Controls)
                 {
@@ -50,11 +48,32 @@ namespace StructuresDemo
                         ctl.Text = "";
                     }
                 }
+                txtGivenName.Focus();
             }
             catch (Exception ex)
             {
                 MessageBox.Show(ex.Message, ex.GetType().ToString());
             }
         }
+
+        private void btnShowEmployees_Click(object sender, EventArgs e)
+        {
+            DisplayStructure();
+        }
+
+        #region user-defined method
+
+        private void DisplayStructure()
+        {
+            string message = "";
+            foreach (Employee em in allEmployees)
+            {
+                message += $"{em.GivenName} {em.FamilyName} - {em.Salary:c} - {em.Extension} {Environment.NewLine}";
+            }
+
+            MessageBox.Show(message);
+        }
+
+        #endregion
     }
 }

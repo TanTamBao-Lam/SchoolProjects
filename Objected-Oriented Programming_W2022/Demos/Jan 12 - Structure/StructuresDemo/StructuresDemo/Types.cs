@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace StructuresDemo
 {
-    class Class1
+    public struct Employee
     {
+        public string GivenName;
+        public string FamilyName;
+        public int Extension;
+        public decimal Salary;
     }
 }

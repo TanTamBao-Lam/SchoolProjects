@@ -1,0 +1,10 @@
+C:\Users\Stephen.Carter\Documents\Courses\OOP\2.Generics\3.Exercises\2\Solution\GenericListEx\GenericListEx\bin\Debug\GenericListEx.exe.config
+C:\Users\Stephen.Carter\Documents\Courses\OOP\2.Generics\3.Exercises\2\Solution\GenericListEx\GenericListEx\bin\Debug\GenericListEx.exe
+C:\Users\Stephen.Carter\Documents\Courses\OOP\2.Generics\3.Exercises\2\Solution\GenericListEx\GenericListEx\bin\Debug\GenericListEx.pdb
+C:\Users\Stephen.Carter\Documents\Courses\OOP\2.Generics\3.Exercises\2\Solution\GenericListEx\GenericListEx\obj\Debug\GenericListEx.csproj.AssemblyReference.cache
+C:\Users\Stephen.Carter\Documents\Courses\OOP\2.Generics\3.Exercises\2\Solution\GenericListEx\GenericListEx\obj\Debug\GenericListEx.Form1.resources
+C:\Users\Stephen.Carter\Documents\Courses\OOP\2.Generics\3.Exercises\2\Solution\GenericListEx\GenericListEx\obj\Debug\GenericListEx.Properties.Resources.resources
+C:\Users\Stephen.Carter\Documents\Courses\OOP\2.Generics\3.Exercises\2\Solution\GenericListEx\GenericListEx\obj\Debug\GenericListEx.csproj.GenerateResource.cache
+C:\Users\Stephen.Carter\Documents\Courses\OOP\2.Generics\3.Exercises\2\Solution\GenericListEx\GenericListEx\obj\Debug\GenericListEx.csproj.CoreCompileInputs.cache
+C:\Users\Stephen.Carter\Documents\Courses\OOP\2.Generics\3.Exercises\2\Solution\GenericListEx\GenericListEx\obj\Debug\GenericListEx.exe
+C:\Users\Stephen.Carter\Documents\Courses\OOP\2.Generics\3.Exercises\2\Solution\GenericListEx\GenericListEx\obj\Debug\GenericListEx.pdb

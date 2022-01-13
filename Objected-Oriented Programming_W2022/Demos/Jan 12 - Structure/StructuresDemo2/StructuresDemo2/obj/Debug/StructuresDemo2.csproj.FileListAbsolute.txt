@@ -1,0 +1,10 @@
+D:\Study\NBCC\SchoolProjects\Objected-Oriented Programming_W2022\Demos\Jan 12 - Structure\StructuresDemo2\StructuresDemo2\bin\Debug\StructuresDemo2.exe.config
+D:\Study\NBCC\SchoolProjects\Objected-Oriented Programming_W2022\Demos\Jan 12 - Structure\StructuresDemo2\StructuresDemo2\bin\Debug\StructuresDemo2.exe
+D:\Study\NBCC\SchoolProjects\Objected-Oriented Programming_W2022\Demos\Jan 12 - Structure\StructuresDemo2\StructuresDemo2\bin\Debug\StructuresDemo2.pdb
+D:\Study\NBCC\SchoolProjects\Objected-Oriented Programming_W2022\Demos\Jan 12 - Structure\StructuresDemo2\StructuresDemo2\obj\Debug\StructuresDemo2.csproj.AssemblyReference.cache
+D:\Study\NBCC\SchoolProjects\Objected-Oriented Programming_W2022\Demos\Jan 12 - Structure\StructuresDemo2\StructuresDemo2\obj\Debug\StructuresDemo2.Form1.resources
+D:\Study\NBCC\SchoolProjects\Objected-Oriented Programming_W2022\Demos\Jan 12 - Structure\StructuresDemo2\StructuresDemo2\obj\Debug\StructuresDemo2.Properties.Resources.resources
+D:\Study\NBCC\SchoolProjects\Objected-Oriented Programming_W2022\Demos\Jan 12 - Structure\StructuresDemo2\StructuresDemo2\obj\Debug\StructuresDemo2.csproj.GenerateResource.cache
+D:\Study\NBCC\SchoolProjects\Objected-Oriented Programming_W2022\Demos\Jan 12 - Structure\StructuresDemo2\StructuresDemo2\obj\Debug\StructuresDemo2.csproj.CoreCompileInputs.cache
+D:\Study\NBCC\SchoolProjects\Objected-Oriented Programming_W2022\Demos\Jan 12 - Structure\StructuresDemo2\StructuresDemo2\obj\Debug\StructuresDemo2.exe
+D:\Study\NBCC\SchoolProjects\Objected-Oriented Programming_W2022\Demos\Jan 12 - Structure\StructuresDemo2\StructuresDemo2\obj\Debug\StructuresDemo2.pdb

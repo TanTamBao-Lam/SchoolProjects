@@ -82,6 +82,7 @@ namespace StructuresDemo
             this.btnShowEmployees.TabIndex = 15;
             this.btnShowEmployees.Text = "Display All Employees";
             this.btnShowEmployees.UseVisualStyleBackColor = true;
+            this.btnShowEmployees.Click += new System.EventHandler(this.btnShowEmployees_Click);
             // 
             // btnSave
             // 
